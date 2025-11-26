@@ -101,7 +101,7 @@ local function main()
 	ConsoleFrame["BorderSizePixel"] = 0;
 	ConsoleFrame["AutoButtonColor"] = false;
 	ConsoleFrame["BackgroundTransparency"] = 1;
-	ConsoleFrame["BackgroundColor3"] = Color3.fromRGB(47, 47, 47);
+	ConsoleFrame["BackgroundColor3"] = Color3.fromRGB(232, 212, 186);
 	ConsoleFrame["Selectable"] = false;
 	ConsoleFrame["Size"] = UDim2.new(1,0,1,0);
 	ConsoleFrame["BorderColor3"] = Color3.fromRGB(0, 0, 0);
